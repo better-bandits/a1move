@@ -6,7 +6,7 @@ weight: 2
 
 Our house removal services cover the UK and EU. We routinely drive major routes between London, Amsterdam, Paris, and Berlin.
 
-![Moving House](../images/hiveboxx-FwdWO5yEo5s-unsplash.jpg)
+![Moving House](/a1move/images/hiveboxx-FwdWO5yEo5s-unsplash.jpg)
 
 House removals typically need a dedicated van and a two-man team with removal equipment such as trolleys, lifts, blankets, straps. We'll take care of that. Our dedicated house removers will help you move your belongings safely from your old home to our van and then to your new home.
 
