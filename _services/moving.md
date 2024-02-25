@@ -20,10 +20,11 @@ Our premium package includes an additional packing and unpackin service. If you'
 
 ## What's always included
 
-Whether standard or premium, our moving servicess always include
+Whether standard or premium, our moving services always include
 
 * Full insurance
-* A fully trained two-man team
+* A dedicated and fully trained two-man team
+* Moving equipment such as blankets, straps, trolleys, etc.
 
 ## Example prices
 
