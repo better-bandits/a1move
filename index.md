@@ -10,4 +10,4 @@ show_call_box: true
 
 # A1Move
 
-Affordable moving and transport services covering the UK and EU. You need to move? We'll take care of it!
+Affordable transport and house removal services covering the UK and EU. You need to move? We'll take care of it!
