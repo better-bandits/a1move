@@ -2,6 +2,8 @@ baseurl: '/a1move/'
 permalink: pretty
 title: 'A1Move'
 
+destination: docs/
+
 logo:
   mobile: "images/logo/logo-mobile.svg"
   mobile_height: "32px"
