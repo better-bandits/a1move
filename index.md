@@ -1,7 +1,7 @@
 ---
 title: A1Move
 layout: home
-description: A1Move offers competitively priced transport and storage solutions within the greater London area, and between the greater London area and the EU
+description: A1Move offers competitively priced transport and home removal solutions covering the UK and EU.
 intro_image: "images/illustrations/erda-estremera-sxNt9g77PE0-unsplash.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
