@@ -5,7 +5,7 @@ description: About
 bodyClass: page-about
 ---
 
-![Alex](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+![Alex](images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 
 Hi, I'm Alex, director of A1Move. I have over 8 years experience in the international transport business. During that time, I have learned that transport is not just about moving things from A to B: It is about taking care. At A1Move, we care for your items, from pickup to delivery, whether a single box or a whole house removal.
 
@@ -13,7 +13,7 @@ I work with a small team of dedicated drivers and movers. That way, I can guaran
 
 ## Our fleet
 
-![Luton Vans](/images/fleet/Luton-Van.png)
+![Luton Vans](images/fleet/Luton-Van.png)
 
 We will pick the best transport solution for you, We operate a range of vans, including:
 
@@ -24,7 +24,7 @@ We will pick the best transport solution for you, We operate a range of vans, in
 
 ## Our storage facility
 
-![Storage Crates](/images/fleet/warehouse-crates.jpg)
+![Storage Crates](images/fleet/warehouse-crates.jpg)
 
 Our storage facility is located in Basildon, England. We offer storage in both wooden crates and steel shipping containers. Our storage solution is designed to be a temporary and secure holding place between pickup and deivery. If you need urgent access to your items whilst in storage, this can be arranged for a small fee.
 
