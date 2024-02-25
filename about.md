@@ -1,5 +1,5 @@
 ---
-title: Our story
+title: About A1Move
 layout: page
 description: About
 bodyClass: page-about
