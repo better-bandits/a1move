@@ -16,18 +16,21 @@ In our standard package, you pack your smaller items securely in moving boxes, a
 
 ## Premium package
 
-Our premium package includes an additional packing and unpackin service. If you've moved before, you know that packing well takes time. In our premium package, we take care of this for you, ensuring your items are packed to the highest standard. Before moving, we will pack your belongings securely using our own materials. Upon arrival at your new home, we will unpack your items and remove all packing materials for recycling.
+Our premium package includes an additional packing and unpacking service. If you've moved before, you know that packing well takes time. In our premium package, we take care of this for you, ensuring your items are packed to the highest standard. Before moving, we will pack your belongings securely using our own materials. Upon arrival at your new home, we will unpack your items and remove all packing materials for recycling.
 
 ## What's always included
 
 Whether standard or premium, our moving services always include
 
 * Full insurance
-* A dedicated and fully trained two-man team
+<!-- * A dedicated and fully trained two-man team -->
+* Driver assistance with loading and unloading
 * Moving equipment such as blankets, straps, trolleys, etc.
 
+<!-- 
 ## Example prices
 
 * Student room removal from London to Berling: from £600 (standard package)
 * 1 bed flat removal from from London to Paris: from £800 (standard package)
 * 3 bed house removal from London to Birmingham: from £XXX (premium package)
+-->
